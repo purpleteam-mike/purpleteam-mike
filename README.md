@@ -17,7 +17,8 @@
 - Apply for entry-level roles in cybersecurity  
 
 ## 📂 Lab Repositories
-- [Cybersecurity Labs](https://github.com/purpleteam-mike/Practice-Labs)  
+- [Cybersecurity Labs](https://github.com/purpleteam-mike/Practice-Labs)
+- [Insider Threat Simulation](https://github.com/purpleteam-mike/insider-threat-simulation-and-proposal/tree/main)
 - [Digital Forensics Projects](https://github.com/purpleteam-mike/digital-forensics-labs)  *coming soon*
 
 ---
