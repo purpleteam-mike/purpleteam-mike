@@ -8,7 +8,6 @@
 ## 🚧 In Progress
 - Completing final course projects and labs (Metasploit, TCPView, FTK Imager, StegHide, etc.)
 - Learning Git/GitHub for professional portfolio use
-- Running a 14-day insider threat simulation
 
 ## 🎯 Upcoming Goals
 - Finish uploading and documenting all course labs to GitHub  
@@ -18,7 +17,7 @@
 
 ## 📂 Lab Repositories
 - [Cybersecurity Labs](https://github.com/purpleteam-mike/Practice-Labs)
-- [Insider Threat Simulation](https://github.com/purpleteam-mike/insider-threat-simulation-and-proposal/tree/main)
+  
 - [Digital Forensics Projects](https://github.com/purpleteam-mike/digital-forensics-labs)  *coming soon*
 
 ---
