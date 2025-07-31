@@ -15,7 +15,7 @@
 
 ## 📂 Lab Repositories
 - [Cybersecurity Labs](https://github.com/purpleteam-mike/Practice-Labs)
-  
+- [Insider Simulation](https://github.com/purpleteam-mike/insider-threat-simulation-and-proposal)
 - [Digital Forensics Projects](https://github.com/purpleteam-mike/digital-forensics-labs)  *coming soon*
 
 ---
