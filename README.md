@@ -1,7 +1,6 @@
 # Hi, I'm Mike 👋
 
 🔐 Certified Cybersecurity Professional  
-🧹 Currently working in facilities/maintenance while transitioning into cybersecurity  
 🎓 Recently certified through a bootcamp by Simplilearn & Purdue University  
 🎯 Career Goal: Digital Forensics & Incident Response (DFIR) / SOC Analyst  
 
@@ -11,7 +10,6 @@
 
 ## 🎯 Upcoming Goals
 - Finish uploading and documenting all course labs to GitHub  
-- Begin Capture the Flag (CTF) challenges (TryHackMe, Hack The Box)  
 - Study for and pass CompTIA Security+  
 - Apply for entry-level roles in cybersecurity  
 
