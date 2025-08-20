@@ -1,16 +1,14 @@
 # Hi, I'm Mike 👋
 
 🔐 Certified Cybersecurity Professional  
-🎓 Recently certified through a bootcamp by Simplilearn & Purdue University  
-🎯 Career Goal: Digital Forensics & Incident Response (DFIR) / SOC Analyst  
+🎯 Career Goal: Digital Forensics & Incident Response (DFIR) / Digital Investigator
 
 ## 🚧 In Progress
-- Completing final course projects and labs (Metasploit, TCPView, FTK Imager, StegHide, etc.)
-- Learning Git/GitHub for professional portfolio use
+- Studying for my CompTIA Security+ Exam in September
+- Actively building my Freelance services on Upwork
 
-## 🎯 Upcoming Goals
-- Finish uploading and documenting all course labs to GitHub  
-- Study for and pass CompTIA Security+  
+## 📆 Upcoming Goals
+- Finialize all course labs and upload to GitHub
 - Apply for entry-level roles in cybersecurity  
 
 ## 📂 Lab Repositories
