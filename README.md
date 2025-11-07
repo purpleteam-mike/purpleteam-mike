@@ -11,7 +11,7 @@
 
 ---
 
-## 🛡️ Cyber Security Labs
+## 🛡️ Cyber Security
 * [Cybersecurity Labs](https://github.com/purpleteam-mike/Practice-Labs)
 * [Insider Simulation](https://github.com/purpleteam-mike/insider-threat-simulation-and-proposal)
 
