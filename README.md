@@ -1,6 +1,7 @@
 # Hi, I'm Mike 👋
 
 🔐 Certified Cybersecurity Professional
+
 🎲 Developer of Zero Day Dice
 
 ## ☕ How To Browse my Portfolio
