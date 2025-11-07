@@ -1,20 +1,14 @@
 # Hi, I'm Mike 👋
 
-🔐 Certified Cybersecurity Professional  
-🎯 Career Goal: Digital Forensics & Incident Response (DFIR) / Digital Investigator
+🔐 Certified Cybersecurity Professional
+🎲 Developer of Zero Day Dice
 
-## 🚧 In Progress
-- Studying for my CompTIA Security+ Exam in September
-- Actively building my Freelance services on Upwork
-
-## 📆 Upcoming Goals
-- Finialize all course labs and upload to GitHub
-- Apply for entry-level roles in cybersecurity  
+## ☕ How To Browse my Portfolio
+  - All repos are divided into two categories; Cyber Security and Personal Projects
 
 ## 📂 Lab Repositories
 - [Cybersecurity Labs](https://github.com/purpleteam-mike/Practice-Labs)
 - [Insider Simulation](https://github.com/purpleteam-mike/insider-threat-simulation-and-proposal)
-- [Digital Forensics Projects](https://github.com/purpleteam-mike/digital-forensics-labs)  *coming soon*
 
 ---
 
