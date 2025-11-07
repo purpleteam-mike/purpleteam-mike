@@ -4,12 +4,21 @@
 
 🎲 Developer of Zero Day Dice
 
+---
+
 ## ☕ How To Browse my Portfolio
   - All repos are divided into two categories; Cyber Security and Personal Projects
 
-## 📂 Lab Repositories
-- [Cybersecurity Labs](https://github.com/purpleteam-mike/Practice-Labs)
-- [Insider Simulation](https://github.com/purpleteam-mike/insider-threat-simulation-and-proposal)
+---
+
+## 🛡️ Cyber Security Labs
+* [Cybersecurity Labs](https://github.com/purpleteam-mike/Practice-Labs)
+* [Insider Simulation](https://github.com/purpleteam-mike/insider-threat-simulation-and-proposal)
+
+---
+
+## ✨ Personal Projects 
+* [Zero Day Dice](https://github.com/purpleteam-mike/zero-day-dice)
 
 ---
 
